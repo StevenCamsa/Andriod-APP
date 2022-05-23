@@ -15,8 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Andriod-APP
-
-run this on Terminal
 # package
+run this on Terminal
 flutter pub add moony_nav_bar
