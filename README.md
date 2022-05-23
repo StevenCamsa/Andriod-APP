@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Andriod-APP
 >>>>>>> d8248882662ce8a592ffa4f39dc1c5418c5c91ed
+run this on Terminal
+#package
+> flutter pub add moony_nav_bar
