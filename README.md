@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # app
 
 A new Flutter project.
@@ -15,9 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# Andriod-APP
->>>>>>> d8248882662ce8a592ffa4f39dc1c5418c5c91ed
+
+## Andriod-APP
+
 run this on Terminal
-#package
-> flutter pub add moony_nav_bar
+# package
+flutter pub add moony_nav_bar
