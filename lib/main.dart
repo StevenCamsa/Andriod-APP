@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:moony_nav_bar/moony_nav_bar.dart';
-import 'package:app/screen.dart';
+import 'package:app/Map.dart';
+import 'package:app/profile.dart';
+import 'package:app/search.dart';
+import 'package:app/dashboard.dart';
 
 
 void main() {
@@ -36,13 +39,13 @@ class _MyAppState extends State<MyApp> {
         bottomNavigationBar: MoonyNavigationBar(
           items: <NavigationBarItem>[
             NavigationBarItem(
-                icon: Icons.home_rounded,
+                icon: Icons.dashboard_customize_sharp,
                 onTap: () {
                   onTapHandler(0);
                 }),
             NavigationBarItem(
-                icon: Icons.compass_calibration,
-                activeIcon: Icons.compass_calibration,
+                icon: Icons.map_outlined,
+                activeIcon: Icons.map_outlined,
                 color: Colors.blue,
                 indicatorColor: Colors.blue,
                 onTap: () {
